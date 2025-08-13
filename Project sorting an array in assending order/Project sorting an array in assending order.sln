@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project sorting an array in assending order", "Project sorting an array in assending order.vcxproj", "{73B60A26-A3B3-4244-8708-72F6FAD8FB53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B60A26-A3B3-4244-8708-72F6FAD8FB53}.Debug|x64.ActiveCfg = Debug|x64
+		{73B60A26-A3B3-4244-8708-72F6FAD8FB53}.Debug|x64.Build.0 = Debug|x64
+		{73B60A26-A3B3-4244-8708-72F6FAD8FB53}.Debug|x86.ActiveCfg = Debug|Win32
+		{73B60A26-A3B3-4244-8708-72F6FAD8FB53}.Debug|x86.Build.0 = Debug|Win32
+		{73B60A26-A3B3-4244-8708-72F6FAD8FB53}.Release|x64.ActiveCfg = Release|x64
+		{73B60A26-A3B3-4244-8708-72F6FAD8FB53}.Release|x64.Build.0 = Release|x64
+		{73B60A26-A3B3-4244-8708-72F6FAD8FB53}.Release|x86.ActiveCfg = Release|Win32
+		{73B60A26-A3B3-4244-8708-72F6FAD8FB53}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD07E11B-4111-438C-8727-0AB21686C5DE}
+	EndGlobalSection
+EndGlobal
